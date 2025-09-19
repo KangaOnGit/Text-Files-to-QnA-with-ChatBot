@@ -1,4 +1,5 @@
 # Text-Files-to-QnA-with-ChatBot
+## Basically a normal Chatbot
 
 1. Switch runtime type to GPU for more efficient runtime
 2. Run the code ***ONE BY ONE, CELLS BY CELLS***
